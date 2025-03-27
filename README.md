@@ -1,1 +1,1 @@
-# Final_Project_Python
+A simple yet powerful GUI that allows allows for comparison between stocks in the same sector and from different sectors which can be viewed numerically and graphically, a little faster than general web search.
